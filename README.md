@@ -1,6 +1,6 @@
 # Employee Storage 
 
-The project is consist of REST API and sample UI for CURD operations on employee resource.
+The project is consist of REST API for CURD operations on employee resource.
 
 
 ## Available Endpoints
